@@ -4,7 +4,6 @@ from __future__ import print_function
 
 from tleague.learners.vtrace_learner import VtraceLearner
 
-
 PPO2Learner = VtraceLearner
 """Learner for PPO2.
 
